@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hariharen9/kessler/releases/download/v0.1.0/kessler_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/hariharen9/kessler/releases/download/v0.1.1/kessler_0.1.1_windows_amd64.zip",
             "bin": [
                 "kessler.exe"
             ],
-            "hash": "da9ff742e155cf5f89e311b73eab0e79ee456c0b9f50817c0dd2f65a73e208f4"
+            "hash": "41027a9b33a3b55df22792edcbc10144921db0abc50a3cc36291c408efc50e29"
         },
         "arm64": {
-            "url": "https://github.com/hariharen9/kessler/releases/download/v0.1.0/kessler_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/hariharen9/kessler/releases/download/v0.1.1/kessler_0.1.1_windows_arm64.zip",
             "bin": [
                 "kessler.exe"
             ],
-            "hash": "fe29d0fa6b381e4995044e8d80f133273f6766952c5a43ec153ee69f92376188"
+            "hash": "db66982c8e7e4542f73afde6ee24a8ded58a392e40a125bb3f17aa0bac2e2e42"
         }
     },
     "homepage": "https://github.com/hariharen9/kessler",
