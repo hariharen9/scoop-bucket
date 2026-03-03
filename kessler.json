@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/hariharen9/kessler/releases/download/v0.1.0/kessler_0.1.0_windows_amd64.zip",
+            "bin": [
+                "kessler.exe"
+            ],
+            "hash": "fa7d4bc1bdeee5e2cf305d6528f501b90a6b2f4a8a4138e9f3a5d8ecc84fb63a"
+        },
+        "arm64": {
+            "url": "https://github.com/hariharen9/kessler/releases/download/v0.1.0/kessler_0.1.0_windows_arm64.zip",
+            "bin": [
+                "kessler.exe"
+            ],
+            "hash": "05abc7ada6e76bde10a41dfd32c1aba9b679ddf5f1af6b141d6c3b382c576e3c"
+        }
+    },
+    "homepage": "https://github.com/hariharen9/kessler",
+    "license": "MIT",
+    "description": "🛰️ Intelligent CLI tool to find and safely clean build artifacts \u0026 caches"
+}
