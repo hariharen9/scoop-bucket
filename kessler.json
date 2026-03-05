@@ -6,14 +6,14 @@
             "bin": [
                 "kessler.exe"
             ],
-            "hash": "7d92b89e07daab6d1008c3afd3a9829cafeeb976a540539d000fbd9825d61f47"
+            "hash": "f2348d147ee58c3efc0dc742c49edbc9014c5e20fe362e215ed3d624d5022652"
         },
         "arm64": {
             "url": "https://github.com/hariharen9/kessler/releases/download/v0.2.1/kessler_0.2.1_windows_arm64.zip",
             "bin": [
                 "kessler.exe"
             ],
-            "hash": "955b90c828057a5d4d9d1b351d13544f5669cbc6a9a01726ace47bf78c8b98c1"
+            "hash": "2cd1fab64b69509bcfa67587085acd2f7625ed2b75afe02ff444dc504324970a"
         }
     },
     "homepage": "https://github.com/hariharen9/kessler",
