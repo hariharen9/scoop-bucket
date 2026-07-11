@@ -1,0 +1,21 @@
+{
+    "version": "1.0.4",
+    "description": "The Universal File Converter for the Command Line.",
+    "homepage": "https://github.com/hariharen9/morph",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/hariharen9/morph/releases/download/v1.0.4/morph.exe",
+            "hash": "2cd567d6b123ae4058f95b619129c4e6d31b15585f337b56efa47bd56f47a9e9"
+        }
+    },
+    "bin": "morph.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/hariharen9/morph/releases/download/v$version/morph.exe"
+            }
+        }
+    }
+}
